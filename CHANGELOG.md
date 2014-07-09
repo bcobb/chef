@@ -5,6 +5,7 @@
 * `options` attribute of mount resource now supports lazy evaluation. (CHEF-5163)
 * Fix OS X service provider actions that don't require the service label
   to work when there is no plist. (backport CHEF-5223)
+* Fix RPM package version detection (backport Issue 1554)
 
 ## 10.32.2
 
